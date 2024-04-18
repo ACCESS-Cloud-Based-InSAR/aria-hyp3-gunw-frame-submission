@@ -1,0 +1,29 @@
+enumeration_parameters:
+  aoi_geojson_path: AOIs/domuyo_ndc.geojson
+  aoi_name: domuyo_ndc
+  data_directory: out
+  date_of_enum: 2024-03-21
+  enum_dir: out/domuyo_ndc__tb_0-180-365-730__neigh_3/enum
+  enum_parent_dir: out/domuyo_ndc__tb_0-180-365-730__neigh_3
+  exclusive_month_constraints: true
+  month_constraints:
+  - 12
+  - 1
+  - 2
+  - 3
+  - 4
+  n_secondaries_per_reference: 3
+  n_seeds: 2
+  stack_dir: out/domuyo_ndc__tb_0-180-365-730__neigh_3/stack
+  temporal_baseline_days:
+  - 0
+  - 180
+  - 365
+  - 730
+  track_numbers:
+  valid_date_ranges:
+  - - 2022-01-01 00:00:00+00:00
+    - 2024-12-01 00:00:00+00:00
+  weather_model:
+  yaml_path: out/domuyo_ndc__tb_0-180-365-730__neigh_3/enum_params_2024-03-21.yml
+  yaml_path_record: enum_configs/domuyo_ndc_2024-03.yml

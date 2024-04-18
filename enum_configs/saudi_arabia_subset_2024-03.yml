@@ -1,0 +1,23 @@
+enumeration_parameters:
+  aoi_geojson_path: AOIs/saudi_arabia_subset.geojson
+  aoi_name: saudi_arabia_subset
+  data_directory: out
+  date_of_enum: 2024-03-25
+  enum_dir: out/saudi_arabia_subset__tb_0-180-365__neigh_3/enum
+  enum_parent_dir: out/saudi_arabia_subset__tb_0-180-365__neigh_3
+  exclusive_month_constraints: false
+  month_constraints:
+  n_secondaries_per_reference: 3
+  n_seeds: 5
+  stack_dir: out/saudi_arabia_subset__tb_0-180-365__neigh_3/stack
+  temporal_baseline_days:
+  - 0
+  - 180
+  - 365
+  track_numbers:
+  - 14
+  - 116
+  valid_date_ranges:
+  weather_model:
+  yaml_path: out/saudi_arabia_subset__tb_0-180-365__neigh_3/enum_params_2024-03-25.yml
+  yaml_path_record: enum_configs/saudi_arabia_subset_2024-03.yml

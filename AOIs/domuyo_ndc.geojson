@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Domuyo_NDC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "aoi_name": "NDC", "path_number": 83, "min_days_backward": 364, "month_range_lower": 1, "month_range_upper": 12, "num_neighbors_ref": 3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.573173405256099, -36.935474432790123, 0.0 ], [ -71.256423226274876, -37.020301888857936, 0.0 ], [ -71.149640730091278, -36.731264800957206, 0.0 ], [ -71.472193094023851, -36.650751286635945, 0.0 ], [ -71.573173405256099, -36.935474432790123, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "aoi_name": "DOMUYO", "path_number": 83, "min_days_backward": 364, "month_range_lower": 1, "month_range_upper": 12, "num_neighbors_ref": 3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.580886538291878, -36.453950063761212, 0.0 ], [ -70.229173402344202, -36.48367230060186, 0.0 ], [ -70.325770672076303, -36.84033914268965, 0.0 ], [ -70.637854158903124, -36.76107984444792, 0.0 ], [ -70.580886538291878, -36.453950063761212, 0.0 ] ] ] } }
+]
+}

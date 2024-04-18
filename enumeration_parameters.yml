@@ -1,12 +1,11 @@
 enumeration_parameters:
-  aoi_name: tibet
-  n_secondaries_per_reference: [4, 2, 2, 2]
-  n_seeds: 2
-  track_numbers: [136, 33]
-  temporal_baseline_days: [0, 90, 180, 365]
+  aoi_name: conus_west_coast
+  n_secondaries_per_reference: 3
+  n_seeds: 3
+  track_numbers: 
+  temporal_baseline_days: [0, 180, 365]
   # months will only add to pairs; both with and without constraints enumerations performed
   month_constraints: 
   exclusive_month_constraints: false
   valid_date_ranges: 
-   - ['2014-01-01', '2022-11-01']
 
