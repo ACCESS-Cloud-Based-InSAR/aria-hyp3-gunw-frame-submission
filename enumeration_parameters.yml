@@ -7,5 +7,6 @@ enumeration_parameters:
   # months will only add to pairs; both with and without constraints enumerations performed
   month_constraints: 
   exclusive_month_constraints: false
-  valid_date_ranges: 
+  valid_date_ranges:
+  weather_model: hrrr
 
