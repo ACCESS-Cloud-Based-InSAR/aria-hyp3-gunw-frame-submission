@@ -105,6 +105,15 @@ class enumParams:
                 raise ValueError("n_secondaries_per_reference must have the same length as temporal_baselines")
         return v
 
+    @validator("weather_model")
+    def check_valid_weather_model_name(cls, v):
+        if isinstance(v, str):
+            if v.lower() != 'hrrr':
+                raise ValueError('only acceptable weather model is HRRR and must be over CONUS or AK')
+            else:
+                return v.lower()
+        return v
+
     @validator("aoi_geojson_path", pre=True, always=True)
     @classmethod
     def aoi_geojson_exists(cls, v: str, values):

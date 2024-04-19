@@ -35,5 +35,5 @@ dependencies:
   - tqdm
   - s1_frame_enumerator
   - requests
-  - asf_search
+  - asf_search>=7.0.9
   - hyp3_sdk
