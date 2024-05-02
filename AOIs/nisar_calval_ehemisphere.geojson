@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "geo_area": "North Island, NZ", "bbox": "175,-40, 177.50,-38.80", "nisar_track_frame": "81", "nisar_track_frame_manual": "Track=15 frames=108 (dsc)\n Track=87 frames=108 (dsc)\n Track=94 frames=158 (asc)\n Track=166 frames=158 (asc)", "calval_type": "Track=15 frames=108 (dsc)\n Track=87 frames=108 (dsc)\n Track=94 frames=158 (asc)\n Track=166 frames=158 (asc)", "mode": "SES CalVal #6 (Mixed Forest)", "dates": "156", "objective": "Any/All", "priority": "tectonics, slow slip, southern lat, volcanos, varied climate", "team_names": "Med", "Responsible Discipline/": "SE/Rob/Eric" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 177.5, -40.0 ], [ 177.5, -38.8 ], [ 175.0, -38.8 ], [ 175.0, -40.0 ], [ 177.5, -40.0 ] ] ] } },
+{ "type": "Feature", "properties": { "geo_area": "Nepal (Kathmandu + Environs)", "bbox": "85,27.3, 86,28.3", "nisar_track_frame": "85", "nisar_track_frame_manual": "Track=26 frames=16 (asc)\n Track=98 frames=16 (asc)\n Track=149 frames=74 (dsc)", "calval_type": "Track=26 frames=16 (asc)\n Track=98 frames=16 (asc)\n Track=149 frames=74 (dsc)", "mode": "SES CalVal #9 (Mixed Forest)", "dates": "242", "objective": "Any/All", "priority": "ISRO collaboration, tectonics", "team_names": "Med", "Responsible Discipline/": "SE/Eric/Mark/Sreejith" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 86.0, 27.3 ], [ 86.0, 28.3 ], [ 85.0, 28.3 ], [ 85.0, 27.3 ], [ 86.0, 27.3 ] ] ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "geo_area": "1", "bbox": "Los Angeles/Pasadena/aquifer/PV landslide", "track": "-118.5,33.55, -117.7,34.4" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "2", "bbox": "Hawaii Big Island", "track": "-156.50,18.8,-154.7,20.3" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "3", "bbox": "Japan (central/northern Honshu + Hokkaido)", "track": "139,35,140,36.9" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "4", "bbox": "Eastern North Slope of AK", "track": "-160,68.3,-159,71.3" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "5", "bbox": "Mojave Desert", "track": "-118.5,34.2,-116.3,35.8" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "6", "bbox": "Long Valley Caldera, CA", "track": "-118.70,37.40, -118.70,38" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "7", "bbox": "Northern Chile", "track": "-69.00,-26.00, -70.00,-19.00" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "8", "bbox": "Pacific Northwest, Cascadia", "track": "-123, 43.5,-123,46.5" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "9", "bbox": "North Island, NZ", "track": "175,-40, 177.50,-38.80" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "10", "bbox": "Houston/Galveston, TX", "track": "-96,28.76, -94,30.6" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "11", "bbox": "Oklahoma (unspecified)", "track": "-99,34.30, -95,37.00" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "12", "bbox": "Nepal (Kathmandu + Environs)", "track": "85,27.3, 86,28.3" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "13", "bbox": "Unimak, Alaska", "track": "-165, 54.5,-164,55" }, "geometry": null },
+{ "type": "Feature", "properties": { "geo_area": "14", "bbox": "India TBD", "track": "" }, "geometry": null }
+]
+}
