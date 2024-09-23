@@ -30,7 +30,7 @@ dependencies:
   - numpy
   - contextily
   - rasterio
-  - geopandas
+  - geopandas>=0.14
   - shapely=>2.0
   - tqdm
   - s1_frame_enumerator
